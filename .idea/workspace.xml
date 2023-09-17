@@ -74,8 +74,16 @@
       <option name="presentableId" value="Default" />
       <updated>1694915132396</updated>
       <workItem from="1694915133926" duration="2944000" />
-      <workItem from="1694918116021" duration="1053000" />
+      <workItem from="1694918116021" duration="1830000" />
     </task>
+    <task id="LOCAL-00001" summary="baseball-game create">
+      <created>1694919178056</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694919178056</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,7 +91,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="baseball-game create" />
-    <option name="LAST_COMMIT_MESSAGE" value="baseball-game create" />
+    <MESSAGE value="배열에서 arrayList로 변경" />
+    <option name="LAST_COMMIT_MESSAGE" value="배열에서 arrayList로 변경" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

@@ -4,36 +4,30 @@ public class BaseballGame {
     private static final Scanner SCANNER = new Scanner(System.in);
     private static final Random RANDOM = new Random();
 
-    private static int[] initNumbers() {
+    private static List<Integer> initNumbers() {
         Set<Integer> numbers = new HashSet<>(3);
         while (numbers.size() < 3) {
             numbers.add(1 + RANDOM.nextInt(9));
         }
-        return numbers.stream().mapToInt(Integer::intValue).toArray();
+        return new ArrayList<>(numbers);
     }
 
-    private static int[] stringToIntArray(String str) {
-        int[] input = new int[3];
-        int idx = 0;
+    private static List<Integer> stringToIntArray(String str) {
+        List<Integer> input = new ArrayList<>(3);
         for (char c : str.toCharArray()) {
-            input[idx++] = Character.getNumericValue(c);
+            input.add(Character.getNumericValue(c));
         }
         return input;
     }
 
-    private static boolean action(int[] guess, int[] input) {
+    private static boolean action(List<Integer> guess, List<Integer> input) {
         int strike = 0;
         int ball = 0;
         for (int i = 0; i < 3; i++) {
-            if (guess[i] == input[i]) {
+            if (guess.get(i).equals(input.get(i))) {
                 strike++;
-            } else {
-                for (int j = 0; j < 3; j++) {
-                    if (guess[j] == input[i]) {
-                        ball++;
-                        break;
-                    }
-                }
+            } else if (guess.contains(input.get(i))) {
+                ball++;
             }
         }
         if (ball != 0) {
@@ -52,11 +46,11 @@ public class BaseballGame {
         boolean flag = false;
         boolean turn = true;
         while (turn) {
-            int[] guess = initNumbers();
+            List<Integer> guess = initNumbers();
             while (!flag) {
                 System.out.print("숫자를 입력해 주세요 : ");
                 String str = String.valueOf(SCANNER.nextInt());
-                int[] input = stringToIntArray(str);
+                List<Integer> input = stringToIntArray(str);
                 flag = action(guess, input);
             }
             System.out.println("3개의 숫자를 모두 맞히셨습니다! 게임 종료");
