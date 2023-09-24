@@ -1,4 +1,4 @@
-package com.springmvc.controller;
+package com.springmvc;
 
 /**
  * Hello world!

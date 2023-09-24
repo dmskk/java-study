@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06577b1a-041a-441a-a150-d31323fd26b0" name="Changes" comment="" />
+    <list default="true" id="06577b1a-041a-441a-a150-d31323fd26b0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../spring-coding-workshop/cahp02/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-coding-workshop/cahp02/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-coding-workshop/cahp02/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-coding-workshop/cahp02/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-coding-workshop/cahp02/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-coding-workshop/cahp02/.idea/libraries/springframework_spring_webmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-coding-workshop/cahp02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-coding-workshop/cahp02/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/.idea/libraries/springframework_spring_webmvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/main/java/com/springmvc/controller/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/test/java/com/springmvc/controller/AppTest.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,32 +55,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/dev/java-study/java-study/baseball-game",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/dev/java-study/java-study/baseball-game&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\dev\java-study\java-study\src\main\java" />
@@ -81,7 +102,12 @@
       <workItem from="1694918116021" duration="1967000" />
       <workItem from="1695053223346" duration="2907000" />
       <workItem from="1695444084483" duration="600000" />
-      <workItem from="1695522376900" duration="23000" />
+      <workItem from="1695522376900" duration="289000" />
+      <workItem from="1695524207535" duration="109000" />
+      <workItem from="1695524652318" duration="592000" />
+      <workItem from="1695525354640" duration="76000" />
+      <workItem from="1695528783496" duration="248000" />
+      <workItem from="1695529479366" duration="32000" />
     </task>
     <task id="LOCAL-00001" summary="baseball-game create">
       <created>1694919178056</created>
@@ -97,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694919986945</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="폴더정리">
+      <created>1695522461293</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695522461293</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,7 +142,8 @@
     </ignored-roots>
     <MESSAGE value="baseball-game create" />
     <MESSAGE value="배열에서 arrayList로 변경" />
-    <option name="LAST_COMMIT_MESSAGE" value="배열에서 arrayList로 변경" />
+    <MESSAGE value="폴더정리" />
+    <option name="LAST_COMMIT_MESSAGE" value="폴더정리" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
