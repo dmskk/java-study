@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="342fdf52-9f5c-41f3-af11-c5684f018b15" name="Changes" comment="" />
+    <list default="true" id="00e09d6d-4b9f-48dd-af39-073a07dfeab6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,13 +13,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jsp File" />
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
-  </component>
-  <component name="GitToolBoxStore">
-    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -38,9 +35,8 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2VpOMmEjPMzmVV9T5rCeLfgf3Me" />
+  <component name="ProjectId" id="2Vq0RCj99TOsW2YKTifVwET22e4" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
@@ -53,48 +49,40 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/dev/java-study/java-study/spring-coding-workshop/chap02",
+    "last_opened_file_path": "C:/dev/java-study/java-study/spring-coding-workshop/BookMarket/src/main/webapp/resources/css",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
+    "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.42988506",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "spring.configuration.checksum": "594c103f2c6e04c3d8ab059f031e0c1a",
+    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\java-study\java-study\spring-coding-workshop\BookMarket\src\main\webapp\resources\css" />
+      <recent name="C:\dev\java-study\java-study\spring-coding-workshop\BookMarket\src\main\webapp\WEB-INF\spring" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\dev\java-study\java-study\spring-coding-workshop\chap02\src\main\webapp\WEB-INF\spring" />
-      <recent name="C:\dev\java-study\java-study\spring-coding-workshop\chap02\src\main\webapp\WEB-INF\spring\appServlet" />
+      <recent name="C:\dev\java-study\java-study\spring-coding-workshop\BookMarket\src\main\webapp\WEB-INF\views" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="chap02" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="chap02" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Tomcat" type="com.poratu.idea.plugins.tomcat">
       <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
       <predefined_log_file enabled="true" id="Tomcat Access Log" />
       <predefined_log_file id="Tomcat Catalina Log" />
       <predefined_log_file id="Tomcat Manager Log" />
       <predefined_log_file id="Tomcat Host Manager Log" />
-      <option name="catalinaBase" value="C:\Users\eek44\.SmartTomcat\chap02\controller" />
-      <option name="contextPath" value="/" />
+      <option name="catalinaBase" value="C:\Users\eek44\.SmartTomcat\BookMarket\BookMarket" />
+      <option name="contextPath" value="/BookMarket" />
       <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="envOptions">
+        <map />
+      </option>
       <option name="extraClassPath" value="" />
       <option name="port" value="8088" />
       <option name="tomcatInfo">
@@ -105,7 +93,7 @@
         </TomcatInfo>
       </option>
       <option name="vmOptions" value="-Dfile.encoding=UTF-8" />
-      <module name="controller" />
+      <module name="BookMarket" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -114,15 +102,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="342fdf52-9f5c-41f3-af11-c5684f018b15" name="Changes" comment="" />
-      <created>1695529511740</created>
+      <changelist id="00e09d6d-4b9f-48dd-af39-073a07dfeab6" name="Changes" comment="" />
+      <created>1695548295140</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1695529511740</updated>
-      <workItem from="1695529512904" duration="1962000" />
-      <workItem from="1695531498254" duration="141000" />
-      <workItem from="1695531696614" duration="1546000" />
-      <workItem from="1695548227521" duration="67000" />
+      <updated>1695548295140</updated>
+      <workItem from="1695548296297" duration="2026000" />
     </task>
     <servers />
   </component>
